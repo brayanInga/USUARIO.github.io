@@ -1,8 +1,43 @@
-body{
-    background-color:aliceblue;
+cuerpo{
+    color de fondo:Alicia azul;
 }
-.titulo{
-    color: rgb(255, 255, 255);
-    text-align: center;
-    font-size: 300%;
+.título{
+    Color: rgb(255, 255, 255);
+    texto alineado: centro;
+    tamaño de fuente: 300%;
+}
+.selector de productos {
+  mostrar: doblar;
+  envoltura flexible: envoltura;
+}
+
+.artículo del producto {
+  ancho: 200píxeles;
+  margen: 10píxeles;
+  relleno: 10píxeles;
+  borde: 1píxeles sólido #ccc;
+}
+
+.img del artículo del producto {
+  anchura máxima: 100%;
+  altura: auto;
+}
+
+.Titulo del producto { pantalon
+  peso de fuente: atrevido;
+}
+.precio del producto  1{ s/20
+  Color: verdes;
+}
+
+.botón de producto {
+  color de fondo: #007bff;
+  color: blanco;
+  padding: 5píxeles 10px;
+  border: ninguno;
+  cursor: puntero;
+}
+
+.botón de producto:flotar {
+  color de fondo: #0056b3;
 }
